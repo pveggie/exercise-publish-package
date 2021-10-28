@@ -1,3 +1,4 @@
 {
-  "your": "json config here"
+  "private": true,
+  "name: "@pveggie/test"
 }
