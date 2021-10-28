@@ -1,4 +1,8 @@
 {
-  "private": true,
-  "name": "@pveggie/test"
+  "version": "0.0.2",
+  "name": "@pveggie/test",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pveggie/exercise-publish-package.git"
+  }
 }
